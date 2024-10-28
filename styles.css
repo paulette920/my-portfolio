@@ -11,7 +11,7 @@ body {
 #header {
   width: 100%;
   height: 100vh;
-  background-image: url(images/me.jpg);
+  background-image: url(images/ai\ girl\ coding.png);
   background-size: cover;
   background-position: center;
 }
@@ -59,4 +59,7 @@ nav ul li a:hover::after {
 .header-text h1 {
   font-size: 60px;
   margin-top: 20px;
+}
+.header-text h1 span {
+  color: rgb(244, 88, 140);
 }
